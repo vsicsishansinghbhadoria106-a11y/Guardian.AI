@@ -1,0 +1,6 @@
+streamlit
+Pillow
+tensorflow
+numpy
+google-generativeai
+pillow-heif
